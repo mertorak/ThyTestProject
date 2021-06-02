@@ -1,0 +1,32 @@
+{
+  "page_Control":{
+    "key": "pageControl",
+    "androidValue": "com.turkishairlines.mobile:id/frFlightSearch_rlPageContent",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "flight_Select":{
+    "key": "flightSelect",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "eco_Fly":{
+    "key": "ecoFly",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "continue_Btn":{
+    "key": "continueBtn",
+    "androidValue": "com.turkishairlines.mobile:id/frFlightSearch_btnContinue",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+
+}

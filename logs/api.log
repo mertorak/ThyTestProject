@@ -616,3 +616,17 @@
 02-06-2021 23:01:31.911 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\GaugeProject\specs\example.spec
 02-06-2021 23:01:31.911 [Gauge] [INFO] Initializing steps cache with 1 steps
 02-06-2021 23:01:31.911 [Gauge] [INFO] Gauge daemon initialized and listening on port: 65403
+02-06-2021 23:23:24.110 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Bilet al butonuna basilir" > 
+02-06-2021 23:23:24.110 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Bilet al butonuna basilir" parameterizedStepValue:"Bilet al butonuna basilir" > > 
+02-06-2021 23:23:24.123 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Tek yon ucus bileti secilir" > 
+02-06-2021 23:23:24.123 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Tek yon ucus bileti secilir" parameterizedStepValue:"Tek yon ucus bileti secilir" > > 
+02-06-2021 23:23:24.129 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yon bilgisi olarak 'saw' to 'esb' se\303\247ilir" > 
+02-06-2021 23:23:24.129 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yon bilgisi olarak 'saw' to 'esb' se\303\247ilir" parameterizedStepValue:"Yon bilgisi olarak 'saw' to 'esb' se\303\247ilir" > > 
+02-06-2021 23:23:24.147 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Tarih bilgisi 2 gun sonraya secilir ve tamam butonuna bas\304\261l\304\261r" > 
+02-06-2021 23:23:24.148 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Tarih bilgisi 2 gun sonraya secilir ve tamam butonuna bas\304\261l\304\261r" parameterizedStepValue:"Tarih bilgisi 2 gun sonraya secilir ve tamam butonuna bas\304\261l\304\261r" > > 
+02-06-2021 23:23:24.155 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yetiskin bilgisi olarak secilir ve ucus ara butonuna basilir" > 
+02-06-2021 23:23:24.155 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yetiskin bilgisi olarak secilir ve ucus ara butonuna basilir" parameterizedStepValue:"Yetiskin bilgisi olarak secilir ve ucus ara butonuna basilir" > > 
+02-06-2021 23:23:24.159 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ucuslar listesi kontrol edilir" > 
+02-06-2021 23:23:24.159 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ucuslar listesi kontrol edilir" parameterizedStepValue:"Ucuslar listesi kontrol edilir" > > 
+02-06-2021 23:23:24.166 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ekonomik ucus secilir ve devam et butonuna basilir" > 
+02-06-2021 23:23:24.166 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ekonomik ucus secilir ve devam et butonuna basilir" parameterizedStepValue:"Ekonomik ucus secilir ve devam et butonuna basilir" > > 

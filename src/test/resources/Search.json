@@ -1,0 +1,90 @@
+{
+
+  "one_Way":{
+    "key": "oneWay",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_tvOneWay",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "from_Btn":{
+    "key": "fromBtn",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_tvFromCode",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  "send_Search_From":{
+    "key": "sendSearchFrom",
+    "androidValue": "com.turkishairlines.mobile:id/frAirportSelection_etSearch",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "to_Btn":{
+    "key": "toBtn",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_llTo",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "send_Search_To":{
+    "key": "sendSearchTo",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "clict_To_Select":{
+    "key": "clictToSelect",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[2]/android.widget.TextView[2]",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "date":{
+    "key": "date",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_rlDeparture",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "date_Select":{
+    "key": "dateSelect",
+    "androidValue": "xpath=/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.LinearLayout[1]/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.FrameLayout[7]/android.widget.TextView",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "ok_Btn":{
+    "key": "okBtn",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_btnDone",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "passanger_Btn":{
+    "key": "passanger_Btn",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_tvPassengerTitle",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "passanger_Number":{
+    "key": "passNumber",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.LinearLayout[1]/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.FrameLayout[7]/android.widget.TextView",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  "search_Flight":{
+    "key": "passanger_Btn",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_btnSearch",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  }
+
+}

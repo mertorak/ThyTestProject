@@ -6,9 +6,9 @@ import org.openqa.selenium.By;
 public class SearchPage extends BasePage {
     public static By oneWay = By.id("com.turkishairlines.mobile:id/frDashboard_tvOneWay");
     public static By fromBtn = By.id("com.turkishairlines.mobile:id/frDashboard_llFrom");
-    public static By sendAmountFrom = By.id("com.turkishairlines.mobile:id/frAirportSelection_etSearch");
+    public static By sendSearchFrom = By.id("com.turkishairlines.mobile:id/frAirportSelection_etSearch");
     public static By toBtn = By.id("com.turkishairlines.mobile:id/frDashboard_llTo");
-    public static By sendAmountTo = By.xpath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText");
+    public static By sendSearchTo = By.xpath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText");
     public static By clickToSelect = By.xpath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[2]/android.widget.TextView[2]");
     public static By date = By.id("com.turkishairlines.mobile:id/frDashboard_rlDeparture");
     public static By dateSelect = By.xpath("xpath=/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.LinearLayout[1]/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.FrameLayout[7]/android.widget.TextView");
@@ -27,7 +27,7 @@ public class SearchPage extends BasePage {
     }
 
     public void setFrom(String name){
-        sendKeys(sendAmountFrom,"saw");
+        sendKeys(sendSearchFrom,"saw");
     }
 
     public void clickToBtn(){
@@ -35,7 +35,7 @@ public class SearchPage extends BasePage {
     }
 
     public void setTo(String name){
-        sendKeys(sendAmountTo,"esb");
+        sendKeys(sendSearchTo,"esb");
     }
 
     public void clickToSelect(){
