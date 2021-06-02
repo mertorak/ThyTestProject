@@ -1,0 +1,46 @@
+{
+
+  "one_Way":{
+    "key": "oneWay",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_tvOneWay",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "from_Btn":{
+    "key": "fromBtn",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_tvFromCode",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  "send_Amount_From":{
+    "key": "sendAmountFrom",
+    "androidValue": "com.turkishairlines.mobile:id/frAirportSelection_etSearch",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "ok_Btn":{
+    "key": "okBtn",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_btnDone",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "passanger_Btn":{
+    "key": "passanger_Btn",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_tvPassengerTitle",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+  "search_Flight":{
+    "key": "passanger_Btn",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_btnSearch",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  }
+}
